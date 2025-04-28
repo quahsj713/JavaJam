@@ -1,0 +1,31 @@
+body{
+    background-color: #FCEBB6;
+    color: #221811;
+    font-family: Verdana,Arial,sans-serif;
+
+}
+header{
+    background-color: #D2B48C;
+    text-align: center; /*center text*/
+}
+
+h1{
+    line-height: 200%; /*spacing,200% for double spacing*/
+}
+
+nav{
+    text-align: center;
+    font-weight: bold;
+}
+
+footer{
+    background-color: #D2B48C;
+    font-size: .60em;
+    text-align: center;
+    font-style: italic;
+}
+#wrapper{
+    width: 80%; /*the width of the center of the element*/
+    margin-left: auto; /*configure the space in the left margin*/
+    margin-right: auto; /*configure the space in the left margin*/
+}
